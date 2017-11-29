@@ -1,0 +1,6 @@
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\bin\Debug\Collatz Conjecture Unified.exe.config
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\bin\Debug\Collatz Conjecture Unified.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\bin\Debug\Collatz Conjecture Unified.pdb
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\obj\Debug\Collatz Conjecture Unified.csprojResolveAssemblyReference.cache
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\obj\Debug\Collatz Conjecture Unified.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\Collatz Conjecture Unified\Collatz Conjecture Unified\obj\Debug\Collatz Conjecture Unified.pdb
